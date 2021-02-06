@@ -14,4 +14,4 @@
 
 [6. 조건부 평균](https://github.com/ji-in/Prob-and-Stats/blob/main/six.pdf)
 
-[7. 여러가지 이산확률분포]()
+[7. 여러가지 이산확률분포](https://github.com/ji-in/Prob-and-Stats/blob/main/seven.pdf)
