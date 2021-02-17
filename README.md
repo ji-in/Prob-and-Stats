@@ -16,4 +16,4 @@
 
 [7. 여러가지 이산확률분포](https://github.com/ji-in/Prob-and-Stats/blob/main/seven.pdf)
 
-[8. 지수분포와 어랑분포]()
+[8. 지수분포와 어랑분포](https://github.com/ji-in/Prob-and-Stats/blob/main/eight.pdf)
